@@ -2618,7 +2618,7 @@ button:disabled,
 }
 
 .wrapper.style1 {
-    background-color: #21b2a6;
+    background-color: #45665d;
     color: #c8ece9;
 }
 
@@ -3392,7 +3392,7 @@ body.is-menu-visible #menu {
     overflow: hidden;
     position: relative;
     text-align: center;
-    background: #0c6a63;
+    background-image: url("images/heroforest.jpg")
 }
 
 #banner h2 {
